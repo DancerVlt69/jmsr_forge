@@ -1,0 +1,86 @@
+
+-------------------------------
+ Crafting (2x2) / - Table (3x3
+-------------------------------
+
+- Bleached (white) Wool Blocks, Carpets, or Banners from the colored one
+
+- Bone Meal from a Nautilus Shell
+
+- Diamond from Coal-Blocks
+
+- Gunpowder from Netherquartz, Charcoal and Glowstone Powder
+
+- Gunpowder from a TNT-Block
+
+- Leather from Armor, Horse Armor, and Saddle - 6 recipes
+
+	* Helmet gives 1 Leather
+
+	* Chestplate gives 2 Leather
+
+	* Leggings gives 2 Lether
+
+	* Boots gives 1 Leaher
+
+	* Horse Armor gives 2 Leather
+
+	* Saddle gives 2 Leather
+
+- Name Tags from Strings and Pressure Plates, Wooden Slabs or Wooden Planks
+
+- Magma Cream from Magma Block, plus 0.2 XP 
+
+- Paper from Bamboo (Sticks)
+
+- Pickaxe from Stone and Sticks
+
+- Stick from Arrows or Bow - 2 recipes
+
+	* Arrow gives 1 Stick
+	* Bow gives 1 Stick
+
+- Stone-Blocks from Slabs - 2 recipes
+	
+	* Cobblestone
+	* Stone
+
+- Strings from a white Wool Block
+
+- Wooden Planks from Wooden Slabs | supported Wood types are
+
+	* Minecraft Vanilla
+	
+	* Atmospheric
+	* Autumnity
+	* Bamboo Blocks (V 2.1.0)
+	* Biomes O' Plenty
+	* The Endergetic
+	* Updgrade Aquatic
+
+
+----------
+ Campfire
+----------
+
+- Leather from Rotten Flesh (20 sec.) | no XP
+
+
+------------------
+ Blasting Furnace
+------------------
+
+- Brick Block from Clay Block (10 sec.), plus 0.35 XP per block
+
+- Iron Nuggets from (empty) Bucket (9 sec.), plus 0.2 XP per invested Iron Ingot
+
+- Iron Nuggets from Iron Door(6 sec.), plus 0.2 XP per invested Iron Ingot
+
+- Magma Cream from Magma Block (9 sec.), plus 0.3 (0.1 per Magma Cream)
+
+
+---------
+ Furnace
+---------
+
+- Leather from Rotten Flesh (9 sec.), plus 0.2 XP

@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:blasting",
+
+	"ingredient": {
+		"tag": "minecraft:diamond_tools"
+	},
+
+	"result": "minecraft:diamond",
+
+	"experience": 0.5,
+
+	"cookingtime": 100
+}

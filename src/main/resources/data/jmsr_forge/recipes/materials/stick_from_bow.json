@@ -1,0 +1,15 @@
+{
+    "group": "kmsr:get_sticks",
+	"type": "minecraft:crafting_shapeless",
+	
+    "ingredients": [
+        {
+			"item": "minecraft:bow"
+        }
+    ],
+	
+    "result": {
+		"item": "minecraft:stick",
+		"count": 1
+    }
+}

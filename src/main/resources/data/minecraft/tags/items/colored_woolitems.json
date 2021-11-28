@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:colored_banners",
+	"#minecraft:colored_beds",
+    "#minecraft:colored_carpets",
+    "#minecraft:colored_wool_blocks"
+  ]
+}

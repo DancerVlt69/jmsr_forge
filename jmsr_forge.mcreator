@@ -1,0 +1,32 @@
+{
+  "id_map": {},
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "jmsr_forge",
+    "modName": "JMSR for Forge",
+    "version": "1.0.0",
+    "author": "DancerVlt69, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Apache License version 2.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.dancervlt69.jmsrforge",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

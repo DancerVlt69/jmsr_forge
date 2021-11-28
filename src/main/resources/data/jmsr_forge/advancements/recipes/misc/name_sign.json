@@ -1,0 +1,107 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:name_tag"
+    ]
+  },
+  
+  "criteria": {
+    "has_string": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:string",
+			"item": "adventure:wooden_planks",
+			"item": "minecraft:wooden_pressure_plates",
+			"item": "minecraft:wooden_slabs"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:name_tag"
+      }
+    }
+  },
+  
+  {
+    "has_wooden_planks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:string",
+			"tag": "adventure:wooden_planks",
+			"tag": "minecraft:wooden_pressure_plates",
+			"tag": "minecraft:wooden_slabs"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:name_tag"
+      }
+    }
+  },
+  
+  {
+    "has_wooden_slabs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:string",
+			"tag": "adventure:wooden_planks",
+			"tag": "minecraft:wooden_pressure_plates",
+			"tag": "minecraft:wooden_slabs"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:name_tag"
+      }
+    }
+  },
+  
+  {
+    "has_wooden_pressure_plates": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:string",
+			"tag": "adventure:wooden_planks",
+			"tag": "minecraft:wooden_pressure_plates",
+			"tag": "minecraft:wooden_slabs"
+          }
+        ]
+      }
+    },
+	
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:name_tag"
+      }
+    }
+  },
+  
+  "requirements": [
+    [
+      "has_string",
+	  "has_wooden_slabs",
+	  "has_wooden_pressure_plates",
+	  "has_wooden_planks",
+      "has_the_recipe"
+    ]
+  ]
+}

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "slabs2planks",
+    "pattern": [
+        "__",
+        "__"
+    ],
+	
+    "key": {
+        "_": {
+            "item": "bamboo_blocks:bamboo_slab"
+        }
+    },
+	
+    "result": {
+        "item": "bamboo_blocks:bamboo_planks",
+        "count": 2
+    }
+}

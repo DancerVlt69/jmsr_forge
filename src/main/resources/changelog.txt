@@ -1,0 +1,122 @@
+JMSR changelog:
+
+----------
+ V 0.1.7b 
+----------
+
+- fixes
+
+	* adding some missed recipes to the group "slabs2planks"
+	
+	* fixed one hidden recipe
+
+- added recipes
+
+	* Pickaxe from Stone Blocks and Sticks
+	
+	* Stone Blocks from Stone Slabs | 2 Blocks from 4 Slabs
+	
+		- Cobblestone
+		- Stone
+
+- changes
+
+	* some directory oder corrections
+	
+	* some corrections on the recipe-list
+
+
+------------------------------------------
+ V 0.1.6b - running on Minecraft 1.16.1-5 
+------------------------------------------
+
+Inside the mod
+
+- added recipe/s
+
+	* Bleached (white) Wool Blocks, Carpets, or Banners from the colored one
+	
+	* Leather from Rotten Flesh on the Campfire
+
+	* Planks from Wooden Slaps (30 recipes) | 2 Planks from 4 Slabs
+		
+		supported Wood types 
+			
+			* Minecraft standard
+			
+			* Atmospheric
+			* Autumnity
+			* Bamboo Blocks (V 2.1.0)
+			* Biomes O' Plenty
+			* The Endergetic
+			* Upgrade Aquatic
+
+
+----------
+ V 0.1.5b
+----------
+
+Inside the mod
+
+- added recipe/s
+
+	* Bone Meal from Nautilus Shell
+
+	* Leather from Armor, Horse Armor, and Saddle - 6 recipes
+
+	* Magma Cream from Magma Block (9 sec.), plus 0.3 XP (0.1 per Magma Cream)
+
+	* Stick from Arrow or Bow - 2 recipes
+
+
+----------
+ V 0.1.4c
+----------
+
+In the mod-description
+
+- reorganized the recipe list in the description from alphabetical order to 'craft with' categories
+- (re-) uploaded all screenshots in Vanilla-optic
+
+
+Insiede the mod
+
+- removed some planned, but not working recipes, and some unused files
+- first steps for/to a better Forge-compatibility
+
+- added recipe/s
+	* Iron Nuggets from Iron Door (6 sec.), plus 0.4 XP (0.2 per invested Iron Ingot)
+
+- changed recipes
+	* Bricks Block  from Clay Block
+		# decreased blasting time to 10 seconds
+		# increased the XP up to 0,35
+
+	* Iron Nuggets from Bucket:
+		# set blasting time to 9 seconds
+		# increased the XP up to 0,6 (0,2 per invested Iron Ingot)
+
+
+---------------
+ V 0 to 0.1.3c
+---------------
+
+adding the recipes step by step from the Save-Game folder into the mod, reorganizing the folder structure many times ;)
+
+- Brick Block from Clay Block (12 sec.), plus 0.125 XP per block
+
+- Diamond from Coal-Blocks
+
+- Gunpowder from Netherquartz, Charcoal and Glowstone Powder
+
+- Gunpowder from a TNT-Block
+
+- Iron Nuggets from (empty) Bucket, plus 0.2 XP per Bucket
+
+- Leather from Rotten Flesh
+
+- Nametags from Strings and Pressure Plates, Wooden Slabs or Wooden Planks
+
+- Paper from Bamboo (Sticks)
+
+- Strings from a white Wool Block

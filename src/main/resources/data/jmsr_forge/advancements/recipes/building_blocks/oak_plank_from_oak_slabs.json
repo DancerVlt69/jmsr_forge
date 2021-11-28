@@ -1,0 +1,37 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_dark_oak_slabs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:oak_slab"
+,
+            "count": {
+              "min": 4,
+              "max": 64
+            }
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "jmsr_forge:oak_plank_from_oak_slabs"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_oak_slabs",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "jmsr_forge:oak_plank_from_oak_slabs"
+    ]
+  }
+}

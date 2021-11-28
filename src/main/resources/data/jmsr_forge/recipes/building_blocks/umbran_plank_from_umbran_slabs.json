@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "slabs2planks",
+    "pattern": [
+        "__",
+        "__"
+    ],
+	
+    "key": {
+        "_": {
+            "item": "biomesoplenty:umbran_slab"
+        }
+    },
+	
+    "result": {
+        "item": "biomesoplenty:umbran_planks",
+        "count": 2
+    }
+}

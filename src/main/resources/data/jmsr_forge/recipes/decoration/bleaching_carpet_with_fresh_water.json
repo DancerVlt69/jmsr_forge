@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"UBU",
+		"UUU"
+],
+	"key": {
+		"U": {
+			"item": "pamhc2foodcore:freshwateritem"
+		},
+		"B": {
+			"tag": "minecraft:colored_carpets"
+		}
+	},
+	"result": {
+		"item": "minecraft:white_carpet",
+		"count": 1
+		}
+}

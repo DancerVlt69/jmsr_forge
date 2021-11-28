@@ -1,0 +1,36 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_birch_slabs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:birch_slab",
+            "count": {
+              "min": 4,
+              "max": 64
+            }
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "jmsr_forge:birch_plank_from_birch_slabs"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_birch_slabs",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "jmsr_forge:birch_plank_from_birch_slabs"
+    ]
+  }
+}

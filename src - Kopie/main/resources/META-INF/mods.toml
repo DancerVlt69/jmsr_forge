@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Apache License version 2.0"
+
+[[mods]]
+modId="jmsr_forge"
+version="1.0.0"
+displayName="JMSR for Forge"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="DancerVlt69, MCreator"
+
+[[dependencies.jmsr_forge]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
