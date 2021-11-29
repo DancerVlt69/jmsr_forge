@@ -1,3 +1,4 @@
-# JustMoreSimpleRecipes
+# This Repository is only for testing some IDE-Software
 
-Just More Simple Recipes (JMSR) will add some useful new recipes to your Minecraft 1.16.5 Java Edition.
+If you want to download Just More Simple Recipes (JMSR)
+please visit https://github.com/DancerVlt69/JustMoreSimpleRecipes
