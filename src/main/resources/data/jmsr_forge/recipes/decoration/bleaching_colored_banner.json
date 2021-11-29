@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
@@ -16,4 +17,24 @@
         "item": "minecraft:white_banner",
         "count": 1
     }
+=======
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "H",
+        "W"
+    ],
+    "key": {
+        "H": {
+            "tag": "minecraft:colored_banners"
+        },
+        "W": {
+            "item": "minecraft:water_bucket"
+        }
+    },
+    "result": {
+        "item": "minecraft:white_banner",
+        "count": 1
+    }
+>>>>>>> changes
 }

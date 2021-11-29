@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
 	"type": "minecraft:blasting",
 
@@ -10,4 +11,18 @@
 	"experience": 0.5,
 
 	"cookingtime": 100
+=======
+{
+	"type": "minecraft:blasting",
+
+	"ingredient": {
+		"tag": "minecraft:diamond_tools"
+	},
+
+	"result": "minecraft:diamond",
+
+	"experience": 0.5,
+
+	"cookingtime": 100
+>>>>>>> changes
 }

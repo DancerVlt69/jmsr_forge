@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "replace": false,
   "values": [
@@ -8,4 +9,16 @@
 	"minecraft:diamond_sword",
 	"farmersdelight:diamond_knife"
   ]
+=======
+{
+  "replace": false,
+  "values": [
+	"minecraft:diamond_shovel",
+	"minecraft:diamond_hoe",
+	"minecraft:diamond_axe",
+	"minecraft:diamond_pickaxe",
+	"minecraft:diamond_sword",
+	"farmersdelight:diamond_knife"
+  ]
+>>>>>>> changes
 }

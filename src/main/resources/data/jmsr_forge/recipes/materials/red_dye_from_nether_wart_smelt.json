@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
 	"type": "minecraft:smelting",
 
@@ -12,4 +13,20 @@
 	"experience": 0.5,
 
 	"cookingtime": 200
+=======
+{
+	"type": "minecraft:smelting",
+
+	"group": "red_dye",
+
+	"ingredient": {
+		"item": "minecraft:nether_wart"
+	},
+
+	"result": "minecraft:red_dye",
+
+	"experience": 0.5,
+
+	"cookingtime": 200
+>>>>>>> changes
 }

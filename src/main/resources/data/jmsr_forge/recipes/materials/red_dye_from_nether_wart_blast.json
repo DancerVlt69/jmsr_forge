@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
 	"type": "minecraft:blasting",
 
@@ -12,4 +13,20 @@
 	"experience": 0.5,
 
 	"cookingtime": 100
+=======
+{
+	"type": "minecraft:blasting",
+
+	"group": "red_dye",
+
+	"ingredient": {
+		"item": "minecraft:nether_wart"
+	},
+
+	"result": "minecraft:red_dye",
+
+	"experience": 0.5,
+
+	"cookingtime": 100
+>>>>>>> changes
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
@@ -12,4 +13,20 @@
         "item": "minecraft:oak_planks",
         "count": 4
     }
+=======
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:chest"
+        }
+    },
+    "result": {
+        "item": "minecraft:oak_planks",
+        "count": 4
+    }
+>>>>>>> changes
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 modLoader="javafml"
 loaderVersion="[36,)"
 license="Apache License version 2.0"
@@ -24,3 +25,33 @@ Just More Simple Recipes (JMSR) will add some useful recipes to your Mincraft Ja
 
 
 
+=======
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Apache License version 2.0"
+
+[[mods]]
+modId="jmsr_forge"
+version="0.1.8b"
+displayName="JMSR for Forge"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://github.com/DancerVlt69/JustMoreSimpleRecipes/tree/1.17.1"
+authors="DancerVlt69, MCreator"
+
+[[dependencies.jmsr_forge]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.17.1, 1.18,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.jmsr_forge]]
+    modId="forge"
+    mandatory=true
+    versionRange="[37.,)"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+>>>>>>> changes
