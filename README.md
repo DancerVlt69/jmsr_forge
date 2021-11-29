@@ -1,4 +1,4 @@
-# This Repository is only for testing some IDE-Software
+# This Repository is only for testing some IDE interaction!
 
 If you want to download Just More Simple Recipes (JMSR)
 
