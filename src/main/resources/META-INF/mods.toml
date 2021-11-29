@@ -11,7 +11,7 @@ displayURL="https://www.curseforge.com/minecraft/mc-mods/jmsr-just-more-simple-r
 logoFile="logo.png"
 authors="DancerVlt69, MCreator"
 description='''
-Just More Simple Recipes (JMSR) will ad some useful recipes to your Mincraft Java Edtion
+Just More Simple Recipes (JMSR) will add some useful recipes to your Mincraft Java Edtion
 '''
 
 [[dependencies.jmsr_forge]]
