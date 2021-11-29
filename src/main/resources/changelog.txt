@@ -3,6 +3,7 @@ JMSR changelog:
 ----------
  V 0.1.7b 
 ----------
+
 - set licens to GNU 2.0, now the code is free to use for all
 
 - fixes
